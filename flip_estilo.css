@@ -140,7 +140,7 @@ h1 {
   }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 2400px) {
   .cardBox {
     margin-left: 2.8%;
     margin-top: 3%;
